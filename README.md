@@ -83,6 +83,10 @@ c.send("Message Received Successfully".encode())
 c.close()
 ~~~
 
+Output:
+
+<img width="955" height="186" alt="image" src="https://github.com/user-attachments/assets/d4cd6c10-9296-445b-ad22-92e979c22ce5" />
+
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
